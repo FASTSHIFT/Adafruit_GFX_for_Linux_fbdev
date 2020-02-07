@@ -3,6 +3,6 @@ Adafruit_GFX for Linux framebuffer device
 
 ## How to Compile?
 * 1.clone
-* 2.Open project folder
+* 2.open project folder
 * 3.cmake .
 * 4.make
